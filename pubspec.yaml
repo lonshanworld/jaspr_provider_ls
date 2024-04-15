@@ -1,0 +1,15 @@
+name: jaspr_provider
+description: A wrapper around InheritedComponent to make them easier to use and more reusable.
+version: 0.0.3
+repository: https://github.com/Maksimka101/jaspr_provider
+
+environment:
+  sdk: ">=2.19.0 <3.0.0"
+
+dependencies:
+  collection: ^1.15.0
+  jaspr: ^0.11.1
+
+dev_dependencies:
+  jaspr_test: ^0.11.1
+  mockito: ^5.2.0
